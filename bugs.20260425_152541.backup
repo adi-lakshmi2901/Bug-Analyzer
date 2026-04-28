@@ -1,0 +1,6 @@
+1. Can we change login to use mobile number instead of email?
+2. Instead of email OTP, use WhatsApp OTP
+3. Users should be able to download invoices as PDF
+4. OTP expiry should be 2 minutes instead of 5
+5. What should happen if user refreshes during checkout?
+6. Retry logic is not defined for failed API calls
