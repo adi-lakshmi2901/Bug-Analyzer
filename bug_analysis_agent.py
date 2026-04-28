@@ -25,7 +25,7 @@ class BugAnalysisAgent:
     def __init__(
         self, 
         requirements_folder: str = "product-requirements-specs",
-        model_name: str = "openai:gpt-4o-mini",
+        model_name: str = "google-gla:gemini-2.5-flash",
         create_backup: bool = True
     ):
         """Initialize the Bug Analysis Agent."""
